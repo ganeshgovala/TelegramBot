@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "factorial": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "is-even": "^1.0.0",
+    "is-prime": "^1.0.1",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.76.3",
+    "qs": "^6.13.1",
+    "request": "^2.88.2",
+    "unique-string": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7"
+  }
+}
